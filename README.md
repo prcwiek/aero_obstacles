@@ -14,4 +14,4 @@ on the web pages of PANSA
 <https://www.ais.pansa.pl/en/publications/etod>  
 The used file no. 252 dated 2022-06-16.
 
-## Don’t use it for flight planning or navigation!
+## Don’t use it for flights planning or navigation!
